@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cryptobenkei, 
+- 👀 I’m interested in web3, open data and privacy.
+- 📫 I'm the fouder at Context, a Universal Name Service on Arweave
+- 🌱 I’m currently learning Cairo and playing with NFTs on STarknet
